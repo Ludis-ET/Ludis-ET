@@ -1,3 +1,5 @@
+![GitHub Banner](https://i.imgur.com/2sR83l7.png)
+
 # Hi there! 👋
 
 I'm a Software Engineering student at AASTU, passionate about coding and building meaningful projects. 🚀 I've gained valuable experience through the ALX Africa program and my work with e-learning and e-commerce platforms.
