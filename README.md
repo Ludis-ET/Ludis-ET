@@ -8,7 +8,7 @@ I'm a Software Engineering student at AASTU, passionate about coding and buildin
 
 ## 🛠️ Tech Stack
 - **Backend:** ![Python](https://img.icons8.com/color/48/000000/python.png) ![Django](https://img.icons8.com/color/48/000000/django.png)
-- **Frontend:** ![HTML](https://img.icons8.com/color/48/000000/html.png) ![CSS](https://img.icons8.com/color/48/000000/css.png) ![React](https://raw.githubusercontent.com/react-icons/react-icons/master/react-icons.svg)
+- **Frontend:** ![HTML](https://img.icons8.com/color/48/000000/html.png) ![CSS](https://img.icons8.com/color/48/000000/css.png) ![React](https://img.icons8.com/color/48/000000/react-native.png)
 - **Programming:** ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
 - **Database:** ![MySQL](https://img.icons8.com/ios/50/000000/mysql-logo.png)
 - **Version Control:** ![Git](https://img.icons8.com/color/48/000000/git.png)
