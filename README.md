@@ -3,9 +3,9 @@
 I'm a Software Engineering student at AASTU, passionate about coding and building meaningful projects. 🚀 I've gained valuable experience through the ALX Africa program and my work with e-learning and e-commerce platforms.
 
 ## 💻 Tech Stack
-- **Languages:** Python (Django), HTML, CSS, JavaScript (React), C++
-- **Database:** MySQL
-- **Tools:** Git
+- **Languages:** ![Python](https://img.shields.io/badge/Python-Django-blue) ![HTML](https://img.shields.io/badge/HTML-Web-orange) ![CSS](https://img.shields.io/badge/CSS-Styles-green) ![JavaScript](https://img.shields.io/badge/JavaScript-React-yellow) ![C++](https://img.shields.io/badge/C++-Programming-purple)
+- **Database:** ![MySQL](https://img.shields.io/badge/MySQL-Database-blueviolet)
+- **Tools:** ![Git](https://img.shields.io/badge/Git-Version%20Control-orange)
 
 ## 👨‍💻 Expertise
 - Backend Development
