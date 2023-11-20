@@ -2,19 +2,14 @@
 
 I'm a Software Engineering student at AASTU, passionate about coding and building meaningful projects. 🚀 I've gained valuable experience through the ALX Africa program and my work with e-learning and e-commerce platforms.
 
-## 💻 Tech Stack
-- **Languages:** ![Python](https://img.shields.io/badge/Python-Django-blue) ![HTML](https://img.shields.io/badge/HTML-Web-orange) ![CSS](https://img.shields.io/badge/CSS-Styles-green) ![JavaScript](https://img.shields.io/badge/JavaScript-React-yellow) ![C++](https://img.shields.io/badge/C++-Programming-purple)
-- **Database:** ![MySQL](https://img.shields.io/badge/MySQL-Database-blueviolet)
-- **Tools:** ![Git](https://img.shields.io/badge/Git-Version%20Control-orange)
+![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue)
 
-## 👨‍💻 Expertise
-- Backend Development
-- Full Stack Development
-
-## 🌟 Experience
-- ALX Africa Program
-- E-learning Platform Company
-- E-commerce Platform
+## 🛠️ Tech Stack
+- **Backend:** ![Python](https://img.icons8.com/color/48/000000/python.png) ![Django](https://img.icons8.com/color/48/000000/django.png)
+- **Frontend:** ![HTML](https://img.icons8.com/color/48/000000/html.png) ![CSS](https://img.icons8.com/color/48/000000/css.png) ![React](https://img.icons8.com/color/48/000000/react.png)
+- **Programming:** ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
+- **Database:** ![MySQL](https://img.icons8.com/ios/50/000000/mysql-logo.png)
+- **Version Control:** ![Git](https://img.icons8.com/color/48/000000/git.png)
 
 ## 🚀 Proud Project
 While it's challenging to pick a single favorite project, I take great pride in the collaborative efforts I put into an e-learning platform during my tenure with a tech company. It not only honed my skills in backend development with Python (Django) but also allowed me to contribute to a project with a meaningful impact on education.
@@ -27,3 +22,7 @@ Currently, I'm delving deeper into the realms of React and exploring its capabil
 
 ## 🎯 Future Goals
 Looking ahead, I have plans to further enrich my expertise in cloud technologies, aiming to integrate cloud solutions into my projects. Additionally, I'm keen on contributing to open-source initiatives that align with my interests and values. Stay tuned for exciting updates on these fronts!
+
+---
+
+![Tech Banner](https://img.icons8.com/bubbles/50/000000/code.png) **Tech Enthusiast | Open Source Contributor | Lifelong Learner**
