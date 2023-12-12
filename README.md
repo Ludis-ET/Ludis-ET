@@ -12,6 +12,12 @@ I'm a Software Engineering student at AASTU, passionate about coding and buildin
 - **Version Control:** ![Git](https://img.icons8.com/color/48/000000/git.png)
 
 
+## 🌐 Portfolio
+Check out my portfolio website: [ludis-et.vercel.app](https://ludis-et.vercel.app)
+
+## 📧 Contact
+Feel free to reach out via email: leulsegedmelaku1020@gmail.com
+
 ## 🚀 Proud Project
 While it's challenging to pick a single favorite project, I take great pride in the collaborative efforts I put into an e-learning platform during my tenure with a tech company. It not only honed my skills in backend development with Python (Django) but also allowed me to contribute to a project with a meaningful impact on education.
 
