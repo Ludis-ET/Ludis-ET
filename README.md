@@ -11,9 +11,6 @@ I'm a Software Engineering student at AASTU, passionate about coding and buildin
 - **Database:** ![MySQL](https://img.icons8.com/ios/50/000000/mysql-logo.png)
 - **Version Control:** ![Git](https://img.icons8.com/color/48/000000/git.png)
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ludis-et&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)
-
 
 ## 📊 GitHub Language Distribution
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ludis-et&layout=compact&theme=radical)
