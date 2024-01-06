@@ -12,7 +12,14 @@ I'm a Software Engineering student at AASTU, passionate about coding and buildin
 - **Version Control:** ![Git](https://img.icons8.com/color/48/000000/git.png)
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LudisET&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ludis-et&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)
+
+
+## 📊 GitHub Language Distribution
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ludis-et&layout=compact&theme=radical)
+
+
+
 
 ## 🌐 Portfolio
 Check out my portfolio website: [ludis-et.vercel.app](https://ludis-et.vercel.app)
