@@ -133,6 +133,7 @@
 
 ![Ludis's Graph](https://github-readme-activity-graph.vercel.app/graph?username=ludis-et&custom_title=Ludis's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
----
-[](https://visitcount.itsvg.in/api?id=BisRyy&icon=0&color=8)
-[![](https://visitcount.itsvg.in/api?id=asero13th&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
+<p align="center">
+<img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake.svg">
+</p>
+
