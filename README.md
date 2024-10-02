@@ -63,7 +63,7 @@
  # About me
  
 <p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
+ <img align="right" width="350" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3BqaWh2anBjMHg4eHJnazRjc3gwZHVxNWNpeGk1cnJxYnBoc2Q4diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/efUcLJePY6RkA/giphy.gif" alt="Coding gif" />
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
