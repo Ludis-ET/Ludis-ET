@@ -109,10 +109,10 @@
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 </p>
 
-## Favorite Repositories
+<!--## Favorite Repositories
 
 - [Ha-Belu](https://github.com/Ludis-ET/Ha-Belu)
-- [Bilihcare](https://github.com/Ludis-ET/Bilihcare)
+- [Bilihcare](https://github.com/Ludis-ET/Bilihcare) -->
 <!-- ## Top Open Source -
 [![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=ludis-et&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/itasks)
 [![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/urfolio)
@@ -120,7 +120,7 @@
 [![Al Siam Readme](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=alsiam&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/alsiam) -->
 
 <p align="left">
-  <a href="https://github.com/ludis-et?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+  <a href="https://github.com/ludis-et?tab=repositories" target="_blank"><img alt="All Repositories" title="My Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
 <br/>
