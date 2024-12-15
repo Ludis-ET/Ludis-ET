@@ -131,6 +131,7 @@
   <a href="https://github.com/ludis-et">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ludis-et&theme=radical&border=7F3FBF&background=0D1117" alt="Ludis' GitHub streak"/>
   </a>
+![LeetCode Stats](https://leetcode.card.workers.dev/aryamangodara?theme=dark&font=source_code_pro&extension=null)
 </p>
 
 <p align="center">
